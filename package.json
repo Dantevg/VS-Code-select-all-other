@@ -1,6 +1,6 @@
 {
   "name": "select-all-other",
-  "displayName": "Select all other",
+  "displayName": "Select All Other",
   "description": "",
   "version": "0.1.0",
   "engines": {
@@ -15,7 +15,7 @@
     "commands": [
       {
         "command": "select-all-other.select",
-        "title": "Select all other"
+        "title": "Select All Other Occurrences of Find Match"
       }
     ]
   },
