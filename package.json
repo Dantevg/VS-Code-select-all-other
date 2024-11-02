@@ -2,7 +2,7 @@
   "name": "select-all-other",
   "displayName": "Select all other",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "select-all-other.helloWorld",
-        "title": "Hello World"
+        "command": "select-all-other.select",
+        "title": "Select all other"
       }
     ]
   },
