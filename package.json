@@ -1,8 +1,14 @@
 {
   "name": "select-all-other",
   "displayName": "Select All Other",
-  "description": "",
+  "description": "Select all *other* occurrences of selection, excluding the current selection.",
+  "keywords": ["select", "selection", "keybindings"],
+  "license": "MIT",
   "version": "0.1.0",
+  "publisher": "RedPolygon",
+  "author": "RedPolygon (https://dantevg.nl)",
+  "repository": "github:Dantevg/VS-Code-select-all-other",
+  "bugs": "https://github.com/Dantevg/VS-Code-select-all-other/issues",
   "engines": {
     "vscode": "^1.95.0"
   },
